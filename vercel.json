@@ -1,4 +1,5 @@
 {
+  "name": "roadsafe",
   "rewrites": [
     {
       "source": "/(.*)",
