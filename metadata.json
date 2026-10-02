@@ -1,0 +1,6 @@
+{
+  "name": "RoadSafe — Road Safety & Hospital Notification System",
+  "description": "Editorial utility road safety system, emergency crash notification, and hospital triage dispatch console.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
